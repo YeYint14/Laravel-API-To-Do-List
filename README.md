@@ -88,6 +88,3 @@ The application will be accessible at [http://localhost:8000](http://localhost:8
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
----
-
-Happy coding! 🚀
